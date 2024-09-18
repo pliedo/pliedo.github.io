@@ -52,9 +52,9 @@ sections:
       title: 'Teaching'
       subtitle: ''
       text: |-
-        #### UC Davis ([Evaluations](/uploads/teaching_evaluations.pdf))
+        #### UC Davis ({{< link href="/uploads/teaching_evaluations.pdf" text="Evaluations" >}})
         
-        -  Applied Economics Research Workshop. (Instructor, Undergraduate) [Syllabus](/uploads/Syllabus_198.pdf)
+        -  Applied Economics Research Workshop. (Instructor, Undergraduate) {{< link href="/uploads/Syllabus_198.pdf" text="Syllabus" >}})
              
         - Financial Management of the Firm. (TA, Undergraduate)
         
@@ -62,7 +62,7 @@ sections:
         
         #### University of Chicago
         
-        - Analytical Politics. (TA, Graduate) [Book](https://press.princeton.edu/books/hardcover/9780691168739/political-economy-for-public-policy?srsltid=AfmBOooWieNJNo6hVIT0MMKpf_Rek6QmmyeCJbCChMmHPKy7lZJriWri)
+        - Analytical Politics. (TA, Graduate){{< link href="https://press.princeton.edu/books/hardcover/9780691168739/political-economy-for-public-policy?srsltid=AfmBOooWieNJNo6hVIT0MMKpf_Rek6QmmyeCJbCChMmHPKy7lZJriWri" text="Book" >}} 
         
         
         
