@@ -52,9 +52,9 @@ sections:
       title: 'Teaching'
       subtitle: ''
       text: |-
-        #### UC Davis ({{< link href="/uploads/teaching_evaluations.pdf" text="Evaluations" >}})
+        #### UC Davis {{< link href="/uploads/teaching_evaluations.pdf" text="(Evaluations)" >}}
         
-        -  Applied Economics Research Workshop. (Instructor, Undergraduate) {{< link href="/uploads/Syllabus_198.pdf" text="Syllabus" >}})
+        -  Applied Economics Research Workshop. (Instructor, Undergraduate) {{< link href="/uploads/Syllabus_198.pdf" text="Syllabus" >}}
              
         - Financial Management of the Firm. (TA, Undergraduate)
         
@@ -73,7 +73,6 @@ sections:
         - Energy and Environmental Economics (TA, Undergraduate)
         
         - Introductory Microeconomics (TA, Undergraduate)
-        
         
         
   - block: collection
