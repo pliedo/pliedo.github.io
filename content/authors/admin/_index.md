@@ -47,8 +47,9 @@ profiles:
    # url: https://orcid.org/
 
 interests:
-  - Environmental Economics
-  - Public Policy
+  - Environmental and Energy Economics
+  - Public Economics
+  - Transportaion
  
 
 education:

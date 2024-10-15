@@ -45,6 +45,18 @@ sections:
       view: article-grid
       columns: 1
       
+  - block: collection
+    id: research
+    content:
+      title: Work in progress
+      filters:
+        folders:
+          - research
+        featured_only: true
+    design:
+      view: citation
+      columns: 1
+      
  
   - block: markdown
     id: teachings
@@ -75,17 +87,7 @@ sections:
         - Introductory Microeconomics (TA, Undergraduate)
         
         
-  - block: collection
-    id: research
-    content:
-      title: Work in progress
-      filters:
-        folders:
-          - research
-        featured_only: true
-    design:
-      view: citation
-      columns: 1
+
  
  
   # - block: collection
