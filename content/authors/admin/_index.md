@@ -46,25 +46,25 @@ profiles:
   #- icon: academicons/orcid
    # url: https://orcid.org/
 
-interests:
-  - Environmental Economics
-  - Public Economics
-  - Transportation
- 
-
-education:
-  - area: PhD Agricultural and Resource Economics
-    institution: UC Davis
-    
-  - area: Master of Public Policy
-    institution: University of Chicago
-    date_start: 2016-08-08
-    date_end: 2018-06-06
-    
-  - area: BSc Economics
-    institution: ITAM
-    date_start: 2010-08-08
-    date_end: 2015-05-05
+# interests:
+#   - Environmental Economics
+#   - Public Economics
+#   - Transportation
+#  
+# 
+# education:
+#   - area: PhD Agricultural and Resource Economics
+#     institution: UC Davis
+#     
+#   - area: Master of Public Policy
+#     institution: University of Chicago
+#     date_start: 2016-08-08
+#     date_end: 2018-06-06
+#     
+#   - area: BSc Economics
+#     institution: ITAM
+#     date_start: 2010-08-08
+#     date_end: 2015-05-05
     
 # work:
 #   - position: Director of Cloud Infrastructure
