@@ -170,6 +170,6 @@ Welcome! I am a PhD student in Agricultural and Resource Economics at UC Davis.
 
 **I am on the job market this fall (AY 2024-2025).**
 
-I'm mostly interested in Environmental Economics and Public Policy. My job market paper studies the effect of tax avoidance on the composition of the vehicle fleet and its environmental implications in Mexico. I also do research on land use change and fuel transition related to the California Low Carbon Fuel Standard.
+I'm mostly interested in Environmental and Public Economics. My job market paper studies the effect of tax avoidance on the composition of the vehicle fleet and its environmental implications in Mexico. I also do research on land use change and fuel transition related to the California Low Carbon Fuel Standard.
 
 I enjoy soccer, cooking, biking, skiing, and playing the drums.
