@@ -49,7 +49,7 @@ profiles:
 interests:
   - Environmental Economics
   - Public Economics
-  - Transportaion
+  - Transportation
  
 
 education:
