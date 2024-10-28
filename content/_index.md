@@ -42,7 +42,7 @@ sections:
           - publication
         featured_only: true
     design:
-      view: article-grid
+      view: compact
       columns: 1
       
   - block: collection
