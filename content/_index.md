@@ -54,7 +54,7 @@ sections:
           - research
         featured_only: true
     design:
-      view: citation
+      view: compact
       columns: 1
       
  
