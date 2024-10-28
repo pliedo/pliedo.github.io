@@ -36,9 +36,9 @@ featured: true
 links:
 - name: Extended abstract
   url: "publication/job_market_paper/liedo_extended_abstract.pdf"
-url_pdf: "publication/job_market_paper/liedo_extended_abstract.pdf"
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
+url_pdf: "https://pliedo.github.io/liedo_2024_tax_avoidance_vehicles.pdf"
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
 url_slides: 'publication/job_market_paper/jmp_slides.pdf'
