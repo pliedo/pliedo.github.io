@@ -47,12 +47,12 @@ url_slides: 'publication/job_market_paper/jmp_slides.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  placement: 3
-  caption: ''
-  focal_point: 'Smart'
-  preview_only: false
-  alt_text: Vehicle registrations per $10,000 price bin for the states of Morelos, Mexico, and Mexico City. The red dotted line represents the exemption threshold price in Mexico City, while the blue dotted line represents the threshold for the state of Mexico. The figure illustrates missing registrations to the right of the exemption threshold of each state. For the state of Morelos, higher registration values are observed for the most expensive vehicles, suggesting a potential avoidance of the registration fee.
+#image:
+ # placement: 3
+  #caption: ''
+  #focal_point: 'Smart'
+  #preview_only: false
+  #alt_text: Vehicle registrations per $10,000 price bin for the states of Morelos, Mexico, and Mexico City. The red dotted line represents the exemption threshold price in Mexico City, while the blue dotted line represents the threshold for the state of Mexico. The figure illustrates missing registrations to the right of the exemption threshold of each state. For the state of Morelos, higher registration values are observed for the most expensive vehicles, suggesting a potential avoidance of the registration fee.
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
