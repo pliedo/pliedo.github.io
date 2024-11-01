@@ -15,24 +15,24 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
-      design:
+buttons:
+  - button:
+      text: Download CV
+      url: uploads/resume.pdf
+    design:
       css_class: "" 
       css_style: "color: black;"
       background:
         color: system
-        
-      button:
-        text: JMP
-        url: https://pliedo.github.io/liedo_2024_tax_avoidance_vehicles.pdf
-      design:
+
+  - button:
+      text: JMP
+      url: https://pliedo.github.io/liedo_2024_tax_avoidance_vehicles.pdf
+    design:
       css_class: "" 
       css_style: "color: black;"
       background:
-        color: system
-        # image:
+        color: system        # image:
         #   # Add your image background to `assets/media/`.
         #   filename: stacked-peaks.svg
         #   filters:
