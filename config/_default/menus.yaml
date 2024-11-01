@@ -8,7 +8,7 @@ main:
     url: /
     weight: 1
   - name: Job Market Paper
-    url: /#papers
+    url: https://pliedo.github.io/liedo_2024_tax_avoidance_vehicles.pdf
     weight: 11
   - name: Research
     url: /#research
