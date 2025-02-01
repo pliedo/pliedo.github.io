@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fuel Transition | Pedro Liedo</title>
+    <link>http://localhost:4321/tags/fuel-transition/</link>
+      <atom:link href="http://localhost:4321/tags/fuel-transition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fuel Transition</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu9264559883886212993.png</url>
+      <title>Fuel Transition</title>
+      <link>http://localhost:4321/tags/fuel-transition/</link>
+    </image>
+    
+    <item>
+      <title>Flexibility and Timing of Incentives: Navigating the Fuel Transition in Refinery Production</title>
+      <link>http://localhost:4321/research/fuel_transition/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/fuel_transition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
